@@ -29,5 +29,5 @@
 
 ### Notes
 - Input data (`bb_real.txt`, `bb_imag.txt`) should be provided in text format.  
-- The design implements polar approximation for beamforming.  
+- The design implements polar approximation for delay index calculation.  
 
